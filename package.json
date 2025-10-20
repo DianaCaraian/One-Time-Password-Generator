@@ -17,7 +17,7 @@
     "react-dom": "^18.2.0"
   },
   "devDependencies": {
-    "@playwright/test": "^1.40.1",
+    "@playwright/test": "^1.56.1",
     "@types/crypto-js": "^4.2.1",
     "@types/lodash": "^4.14.202",
     "@types/node": "^20.10.4",
